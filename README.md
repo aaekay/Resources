@@ -3,8 +3,8 @@ compiled list of resources in the field of neuroscience, machine learning or art
 
 I am dividing this topic in three fields
 1. Neuroscience [link](/neuroscience.md)
-2. Machine learning
-3. computer science resources
+2. Machine learning [link](/machine_learning.md)
+3. computer science resources[link](/cs.md)
 
 
 
