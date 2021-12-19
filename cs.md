@@ -1,7 +1,15 @@
 # Computer Science
 ### Description
-We will be dealing with what basic thing you should know in computer science from the prespectives of various things
+Computer science is a vast subject and there is a lot which is studied under it.
 
-If you are beginner in programming and want to know about good coding practices or organisation skill, check out this amazing [link](https://goodresearch.dev/). 
+Programming languages
+Data structures and algorithms
 
-Creating virtual environment in python [link](/cs/virtual_env.md)
+
+
+If you are beginner in programming and want to know about good organisation skill, check out this [link](https://goodresearch.dev/). 
+
+
+
+Helpful links
+1. Creating virtual environment in python [link](/cs/virtual_env.md)
