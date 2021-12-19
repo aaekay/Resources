@@ -18,18 +18,18 @@ Setting up ssh keys for easy login
 1. check for existing keys by opening git gui app and then click on help then click on show ssh keys
 2. if it doesnt have keys then we will generate a new key
     1. open git bash
-    2. use code: ssh-keygen -t ed25519 -C "your_email@example.com"
+    2. use code: `ssh-keygen -t ed25519 -C "your_email@example.com"`
     3. enter a passprhase of your choice. It is differnent from the github account password
     4. now we have to add the key to the ssh agent
-        1. type and enter code: eval "$(ssh-agent -s)"
+        1. type and enter code: `eval "$(ssh-agent -s)"`
             1. a message like agent pid # will be shown
-        2. enter the code: ssh-add ~/.ssh/id_ed25519
+        2. enter the code: `ssh-add ~/.ssh/id_ed25519`
             1. enter the passphrase
             2. the key will be added to the agent
 3. now add the key to github account
-    1. copy the content of key file by code: clip < ~/.ssh/id_ed25519.pub
+    1. copy the content of key file by code: `clip < ~/.ssh/id_ed25519.pub`
     2. go to setting of github account, click on ssh keys and add new
     iii. provide title to key like personal laptop
     3. now confirm with github password
-4. now enter code: ssh -T git@github.com
+4. now enter code: `ssh -T git@github.com`
     1. if the following message is shown then you are good to go: Hi username! You've successfully authenticated, but GitHub does not provide shell access.
