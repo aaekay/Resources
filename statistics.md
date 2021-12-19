@@ -4,7 +4,7 @@ What could be the good sources to learn statistics?
 and you know where to get the ebooks, see the ebook section to know more.
 
 Without hands on programming
-1. Explaining psychological statistics by Cohen 
+1. **Explaining psychological statistics** by Cohen 
     Inferential statistics is really good, it is explaining null hypothesis in a practical manner.
 
 
