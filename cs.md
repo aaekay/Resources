@@ -2,8 +2,8 @@
 ### Description
 Computer science is a vast subject and there is a lot which is studied under it.
 
-Programming languages
-Data structures and algorithms
+1. Programming languages
+2. Data structures and algorithms
 
 
 
