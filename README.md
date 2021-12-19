@@ -7,4 +7,7 @@ I am dividing this topic in three fields
 3. computer science resources[link](/cs.md)
 4. Statistics [link](/statistics.md)
 4. ebooks [link](/ebooks.md)
+5. Life hacks [link](/lifehacks.md)
 
+
+Note: if you are curious what is git or why should we use git so here is another [link](https://swcarpentry.github.io/git-novice/01-basics/index.html). It is not beginner friendly though.
