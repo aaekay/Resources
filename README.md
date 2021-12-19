@@ -5,10 +5,6 @@ I am dividing this topic in three fields
 1. Neuroscience [link](/neuroscience.md)
 2. Machine learning [link](/machine_learning.md)
 3. computer science resources[link](/cs.md)
+4. Statistics [link](/statistics.md)
 4. ebooks [link](/ebooks.md)
 
-If you want to know what is git you can watch git youtube videos
-status
-
-You can create checklist
-- [ ] List not complete
