@@ -15,7 +15,7 @@ Health and financials go hand in hand. Poor financials lead to poor health and v
 
 Financials
 
-get health insurance and term insurance. See defensive part of indian investments wiki
+get health insurance and term insurance. See defensive part of indian investments wiki and watch this youtube video [link](https://www.youtube.com/watch?v=l3Acc3D8OH4) to learn about health insurance.
 
 What are the different things you should know?
 1. Start filing ITR, will provide a way to take loan on home or car or credit card

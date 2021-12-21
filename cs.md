@@ -13,3 +13,8 @@ If you are beginner in programming and want to know about good organisation skil
 
 Helpful links
 1. Creating virtual environment in python [link](/cs/virtual_env.md)
+
+
+Some topics
+1. Lambda calculus:
+
