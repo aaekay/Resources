@@ -10,6 +10,7 @@ Somedody has already compiled the resources, check out [link](https://github.com
 
 
 ### Resources
+
 | Name | About |
 |-----|------|
 | Comp neuro on the web[link](https://compneuroweb.com/) | labs, papers software, conferences, summer schools, funding, mailing list |
