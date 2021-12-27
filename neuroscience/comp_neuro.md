@@ -13,4 +13,9 @@ Somedody has already compiled the resources, check out [link](https://github.com
 
 | Name | About |
 |-----|------|
-| Comp neuro on the web[link](https://compneuroweb.com/) | labs, papers software, conferences, summer schools, funding, mailing list |
+| Comp neuro on the web [link](https://compneuroweb.com/) | labs, papers software, conferences, summer schools, funding, mailing list |
+
+
+### advices based on intervies
+1. Intervies with Maalvika Govindaraj on youtube, see report [trasnscript](https://guindytimes.com/articles/university-admit-series-an-interview-with-maalavika-govindarajan)
+    1. she did internship at IAS in neuroscience
