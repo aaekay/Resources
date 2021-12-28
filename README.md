@@ -10,10 +10,10 @@ I am dividing this topic in three fields
 5. Life hacks [link](/lifehacks.md)
 
 
-Note: About git usage
+Note: About git usage(read whole then open links)
 1. if you are curious what is git or why should we use git so here is another [link](https://swcarpentry.github.io/git-novice/01-basics/index.html). It is not beginner friendly though
 2. but you want to learn how to use git by the help of command line see this website, it has proved me very helpful[link](https://kbroman.org/github_tutorial/pages/first_time.html)
-3. about git branching [link](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches)
+3. about git branching [link](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) but a great tutorial [here](https://learngitbranching.js.org/)
 
 Setting up ssh keys for easy login
 1. check for existing keys by opening git gui app and then click on help then click on show ssh keys
