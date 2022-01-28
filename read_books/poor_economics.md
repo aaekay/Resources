@@ -84,12 +84,85 @@ Large families
     2. children as financial instruments
         1. some will do well to take care in old age
         2. fewer children, more savings for themselves for some mishap
-
 3. the gift of dying
     1. hiv-aids epidemic didnt lead to decline in fertility rate
 4. poverty vs high fertility rate
     1. large family size appears to have had no adverse effects on the education of the children, counterintuitive
 
+poverty vs risk
+1.
+2. 
+3. hedging
+    1. different occupations
+    2. different subplots of lands
+    3. temporary migration and connection to village/
+4. coping with the risk is costly
+    1. rainfall vs production
+    2. lanlord sharing tenant
+    3. multiple occupations are ineffecient.
+    4. diseases
+5. insurace 
+    1. unpenetrated natural market - a lot of potential
+    2. difficulties
+        1. more difficult to regulate insurers and monitor the insured.
+        2. moral hazards
+        3. action based healthcare setup 
+        4. adverse selection making affordable health programs to be mandatory.
+        5. outright fraud
+    3. why poor cant buy insurance
+        1. low demand - govt spoiling the market
+        2. poor dont understand the concept of insurance very well
+        3. if they understant still not interested in buying one
+        4. credibility
+        5. type of insurance available can only cover catastrophicc scenarios.
+        6. difficult reimbursement policies of insurance schemes.
+    4. solution
+        1. govt interventio like subsidising on premiums eg Ghana
+6. lending to the poor
+    1. high interest rate of informal sources, no bank give loans
+        1. despite being low default rates 
+        2. no collateral, local moneylender
+        3. concept of kabuli wala, mob in US, sending eunuchs
+    2. failur of public banks - social banking experiment of 1970s
+        1. high default rates
+        2. politically oriented loane amounts ended up in the hands of elites.
+    3. microfinance institutions
+        1. evaluation
+            1. not miraculous but it was working
+            2. people had more sense of utilising money and opening business
+            3. yet no women empowerment, health expenditure or private school admissions.
+        2. limits of microcredit
+            1. joint liability works against who want to take risks
+            2. weekly repayments are not good for people who dont know when they will be able to start repaying
+            3.  less flexibility as compared to local moneylender when you need an emergency loan
+            4. the focus on zero default of most mfis is too stringent for many potential borrowers
+            5. shattering belief system, local political conflicts, farmer suicides as a counter arguement.
+            6. diffucult to lend large borrowers which are still not financed by banks
+7. savings
+    1. different instrumetns
+    2. banks savings account need to be cheaper.
+    3. psychology of saving - low self control
+        1. we hope that our tommorow's slef will be more patient than today'self is to be prepared with
+        2. we buy what we want today but to plan on speding in more responsible ways tomorrow.
+        3. perverse logic of temptation
+            1. rich are already at the point where they have already satiated their tempted selves.
+        4. saving less attractive because goal far away while temptaion of things is cheaper
+        5. thinking of future, lot of questions, uncertainties, amount of savings, painful and thoughtfull work
+
+entrepreneurship
+1. poor may be likely to find amazing opportunity
+    1. they havent been given a chance
+    2. market has ignored the bottom of the pyramid
+2. business varieties  
+    1. ranging from very small and unprofitable business to potential profitable business
+    2. avg characteristics - they are not making much money, loan might not be helpful
+    3. marginal return vs overall return from business, production technology
+    4. inverted L curve, retruns are first high and then lower.
+3. barriers
+    1. reluctancy to get loan or credit or high interest rate where people want to get loan
+    2. easy for a very small firm to grow but the growth potential tapers off quite fast, like an OP curve, image
+    3. ![fig_op](/data/fig_op.jpg)
+        
 
 
 
@@ -125,6 +198,8 @@ testings
 | gram vikas ngo orrisa | joe madiath | https://www.gramvikas.org/volunteer/ | 
 | pratham ngo | education primary | 
 | infosys | testing center without formal qualifications | closed now | 
+| sks microfinance | swayam shakti | 
+| spandana | mfi | padmaja reddy | 
 
 #### Facts
 1. On the occasion of the World Food Summit in 1996, the FAO estimated that world food production in that year was enough to provide at least 2,700 calories per person per day.10 This is the result of centuries of innovation in food supply, thanks no doubt to great innovations in agricultural science, but attributable also to more mundane factors such as the adoption of the potato into the diet after the Spanish discovered it in Peru in the sixteenth century and imported it to Europe.
@@ -142,15 +217,18 @@ testings
 13. The lower-caste teachers were actually more likely to assign worse grades to lower-caste students. They must have been convinced these children could not do well.
 14. Indeed, for most of human history (starting in 1 million BC), regions or countries that had more people were growing faster than the rest.
 15. A striking feature of HIV is that women from the ages of fifteen to nineteen are five times more likely to be infected than young men in the same cohort. 
+16.  The town of Tirupur, South India, is India’s T-shirt capital (70 percent of India’s knitted garments are produced there)
+17. Narayan Murthy and Nandan Nilekani, despite their degrees from the ultra-prestigious Indian Institute of Technology, could not get a loan to start the firm Infosys because the banker objected that the bank could see no inventory to lend against. Infosys today is one of the largest software firms in the world.
+18. Gary Becker, the Nobel Prize winner and father of the modern economics of the family, argued in a 1997 paper that the possession of wealth encourages people to invest in becoming more patient: By implication, therefore, poverty makes people (permanently) more impatient.
+
 
 #### Quotes
 1. It is possible to make the world a better place—probably not tomorrow, but in some future that is within our reach—but we cannot get there with lazy thinking.
 2. When you are unemployed, you don’t want to eat dull wholesome food. You want to eat something a little tasty. There is always some cheap pleasant thing to tempt you.
 3. But they don’t necessarily reduce their standards by cutting out luxuries and concentrating on necessities; more often it is the other way around—the more natural way, if you come to think of it—hence the fact that in a decade of unparalleled depression, the consumption of all cheap luxuries has increased.
 4. Our natural inclination is to postpone small costs, so that they are borne not by our today self but by our tomorrow self instead.
-5. 
-
-
+5. Given this self-awareness, it is no surprise that many of the ways the poor save seem to be not only intended to keep the money safe from others, but also to guard it from themselves.
+  
 #### further 
 1. there is micro economics course offered by MIT under micro masters program
 2. edtech internship programme https://www.pratham.org/2020/10/07/edtech-internship-programme/
@@ -161,9 +239,14 @@ testings
 1. The elusive quest for growth : Easterly
 2. Nudge
 3. Common Wealth - by Jeffrey Sachs
+4. A Quiet Violence : Betsey Hartman and Jim Boyce's book about life in rural Bangladesh, 1983
+5. the poor and their money.
+6. portfolio of the poor. 
+7. Billions of entrepreneurs - Tarun Khanna's book
 
 #### thought
 1. the privileged never have to think about the food source, safe water and sewage which gives them time to think about something else like science, innovation etc but sometimes the people who are in desperate need of something find ways to get it and make it easy for the others like him to get it simultaneously.
 2. how the depression, anxiety, competition and distractions like social media or existential crisis is affecting the children already getting education. 
 3. sometimes it seems that the world has no hope but after reading this book small changes can lead to big appreciable effect after a period of patience.
 4. making an organisation and teaching students about basic necessities of life, like safe food, water, finance, utility, bills, how market works, entrepreneuships, applying for sops, express interests. 
+5. what is the S shaped income curve from the prespective of India?
