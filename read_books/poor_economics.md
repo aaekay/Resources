@@ -162,9 +162,77 @@ entrepreneurship
     1. reluctancy to get loan or credit or high interest rate where people want to get loan
     2. easy for a very small firm to grow but the growth potential tapers off quite fast, like an OP curve, image
     3. ![fig_op](/data/fig_op.jpg)
-        
+    4. production technoloy where investment amount can decide return when the business model is not cutting edge and making it S shape ![combining_technologies](data/fig_3.jpg)
+    5. entrepreneuship is too hard 
+        1. saving money and increasing inventory wont change life of people who are below some certain point
+        2. if this has poor hoped for than they may devote their attention and resources to other things
+        3. decreases committment and motivation
+4. why business?
+    1. entrepreneurship is not a choice its a way out of unemployement, its more for a female/housewive > men
+5. good job
+    1. qualites of good job
+        1. for poor -govt jobs, teacher, nurse, desire for stability, even though not very exciting
+        2. jobs which pay monthly
+        3. a sense of stability may be necessary for the people to be able to take the long view
+    2. more good jobs
+        1. easy migration to cities, so policy on urban land use and low income housing
+        2. effective social safety nets, public assitance and market insurance 
+        3. more good jobs be created not just in the cites but in the smaller towns
+        4. adequate labour laws
 
+local factories role in emmployement
+1. pro rural investment policy of india.
 
+politics and policies
+1. limitations
+    1. gap between intention and implementation
+    2. govt inadequacy where foreign aids is not helping
+    3. paper and reality of things dont match
+    4. theft of government funds is easy when no one had bothered to worry about it. 
+2. economy
+    1. iron law of oligarchy
+    2. colonial period policies were to maximise the resources for the benefit of colonial powers
+        1. zamindari system vs rayatwari system
+        2. against e.g. 
+            1. glorius revolution in england
+            2. french revolution
+3. what can be done
+    1. rich institutions make countries bad institutions to be on right track, forcefully if needed
+        1. against - us and iraq 
+    2. changes comes from within if any other attempt used can lead to collapse
+    3. paul romer, subcontracting it to someone else. eg hongkong, british and china. concept of charter cities.
+
+institutions - viewing from below
+1. eg of institutions
+    1. police an eg of colonial institution, no reform done after independance
+1. not always necessary to fundamentally change institutions to improve accountability and reduce corruption
+    1. election under autoritarian govt might have benefit
+    2. newspaper campaign implemented by ugandan govt
+    3. audits and decous seem to be effective
+    4. technological changes like the proposed aadhar card in india and electronic ballot system in brazil
+2. handling power to local people
+    1. against
+        1. KDP project in indonesia, only the elite were participating
+        2. rules making cant be left to villagers, elite take the advantage
+        3. gram panchayat being exploited by elites even when minorieties have reservations.
+        4. role of ethnicity in voting    
+    2. for
+        1. formal invitation through letter increased participation in KDP project of different vilages.
+        2. still elected women tries to invest more in women oriented problems like drinking water
+3. politics and economics
+    1. bad institutions can give rise to good policies sommetimes and more often bad policies can emerge in good environment.
+    2. risk of corruption and neglect
+        1. govt is trying to get people to do somethng that they dont value
+        2. people are getting is worth a lot more than they are paying for
+        3. when bureaucrats are underpain, overworked, not well monitored, little to lose by getting fired away
+4. three Is problems
+    1. nurses in udaipur
+    2. sarva siksha abhiyan program and village education committee participation
+    3. solutions
+        1. concrete doable roles to be defined
+5. voting
+    1. ethnicity preferred over general interest
+        1. interests should be more focussed such that elected can be evaulated and held accountable
 
 
 
@@ -194,7 +262,7 @@ testings
 |----------|-----------|
 |name | underlying idea |
 | jaffrey sach millenium village project | |
-| J-PAL |
+| J-PAL | jameel poverty action lab |
 | gram vikas ngo orrisa | joe madiath | https://www.gramvikas.org/volunteer/ | 
 | pratham ngo | education primary | 
 | infosys | testing center without formal qualifications | closed now | 
@@ -219,7 +287,8 @@ testings
 15. A striking feature of HIV is that women from the ages of fifteen to nineteen are five times more likely to be infected than young men in the same cohort. 
 16.  The town of Tirupur, South India, is India’s T-shirt capital (70 percent of India’s knitted garments are produced there)
 17. Narayan Murthy and Nandan Nilekani, despite their degrees from the ultra-prestigious Indian Institute of Technology, could not get a loan to start the firm Infosys because the banker objected that the bank could see no inventory to lend against. Infosys today is one of the largest software firms in the world.
-18. Gary Becker, the Nobel Prize winner and father of the modern economics of the family, argued in a 1997 paper that the possession of wealth encourages people to invest in becoming more patient: By implication, therefore, poverty makes people (permanently) more impatient.
+18. Gary Becker, the Nobel Prize winner and father of the modern economics of the family, argued in a 1997 paper that the possession of wealth encourages people to invest in becoming more patient: By implication, therefore, poverty makes people (permanently) more impatient. 
+19. Three Is problem: ideology, ignorance, inertia.
 
 
 #### Quotes
@@ -243,6 +312,9 @@ testings
 5. the poor and their money.
 6. portfolio of the poor. 
 7. Billions of entrepreneurs - Tarun Khanna's book
+8. why nations fail - acemoglu and robinson
+9. the bottom billion: why the poorest countries are failing and what can be done about it, Paul Collier
+10. wars and gund and votes: democracy in dangerous Places, Paul Collier.
 
 #### thought
 1. the privileged never have to think about the food source, safe water and sewage which gives them time to think about something else like science, innovation etc but sometimes the people who are in desperate need of something find ways to get it and make it easy for the others like him to get it simultaneously.
@@ -250,3 +322,5 @@ testings
 3. sometimes it seems that the world has no hope but after reading this book small changes can lead to big appreciable effect after a period of patience.
 4. making an organisation and teaching students about basic necessities of life, like safe food, water, finance, utility, bills, how market works, entrepreneuships, applying for sops, express interests. 
 5. what is the S shaped income curve from the prespective of India?
+6. what about opening an organisation which recieves complaints from the public who are not having enough resources to fight the corruption or adequate usage of resources?  
+

@@ -3,7 +3,9 @@
 Computer science is a vast subject and there is a lot which is studied under it.
 
 1. Programming languages
-2. Data structures and algorithms
+2. unix tutorials for beginners [link](http://www.ee.surrey.ac.uk/Teaching/Unix/)
+3. Data structures and algorithms
+4. open source
 
 There is an opencourseeware which is taught at harvard which is freely available under this [link](https://cs50.harvard.edu/x/2021/weeks/). It is an eleven week course.
 
