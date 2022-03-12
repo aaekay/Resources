@@ -8,6 +8,7 @@ I am dividing this topic in three fields
 4. Statistics [link](/statistics.md)
 4. ebooks [link](/ebooks.md)
 5. Life hacks [link](/lifehacks.md)
+6. After mbbs opportunities [link](/cms.md)
 
 
 Note: About git usage
