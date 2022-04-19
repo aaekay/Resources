@@ -106,6 +106,8 @@ PATH is a special environment variable that contains the command path (or path f
 If you run echo $PATH, you’ll see that the path components are separated by colons (:)
 PATH=dir:$PATH --> to add first look directories
 PATH=$PATH:dir --> to append the list
+    *Windows*
+    in git bash, while using windows, you need to add export PATH in the bashprofile
 
 ### SHell Input and Output
 1. command 

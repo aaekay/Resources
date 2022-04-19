@@ -25,3 +25,7 @@ elgibility
 | age | < 32 years, < 35 for junior scale post> |
 | qualification | final year mbbs or intern or mbbs, so after selectin internship is mandatory |
 
+Form
+1. photo - jpg - 350*350, 1k*1k, bit depth of should 24 bit.
+2. signature jpg - 350*350, 1k*1k, bit depth of should 24 bit
+3. 
