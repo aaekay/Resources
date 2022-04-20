@@ -60,11 +60,13 @@ grep root /etc/*
     2. -v for inverting the search
     3. -w for looking for the exact word
 4. if you want to search more than 1 word and
-    1. search grep "123456\|123457"
+    1. search 'grep -w "123456\|123457"'
 4. regular expressions
 .* matches any number of characters, including none (like the * in globs and wildcards).
 .+ matches any one or more characters.
-. matches exactly one arbitrary character.    
+. matches exactly one arbitrary character.
+5. to look in tar file use zcat
+    `zcat clinvar.vcf.gz | grep -w "1559177278"`
 
 
 
