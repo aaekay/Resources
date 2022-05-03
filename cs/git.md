@@ -36,3 +36,15 @@ Version control system:
     1. files can be at three scenario , modified, staged, commit
     2. `git status` tells any uncommited file or unstaged file or modified file
     3. 
+
+
+### when remote is ahead by commits
+1. first way is saving the current changes and reapplying them after you pull
+    1. `git stash` saves changes locally
+    2. git pull
+    3. git stash pop 
+2. reject the changes and hard pull
+
+
+### clearing stash
+1. git stash clear
