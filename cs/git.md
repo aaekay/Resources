@@ -48,3 +48,7 @@ Version control system:
 
 ### clearing stash
 1. git stash clear
+
+### git problems
+1. origin and branch having different commints
+    use `git pull --rebase`
