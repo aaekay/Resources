@@ -45,10 +45,15 @@ Version control system:
     3. git stash pop 
 2. reject the changes and hard pull
 
+### when your branch is ahead of remote and remote also have different commits
+1. using stasch
+2. rebasing
+    1. `git pull --rebase`
+    2. if merge conflicts are there, solve manually
+    3. add conflicting files `git add <file name>`
+    4. `git rebase --continue`
+    
 
 ### clearing stash
 1. git stash clear
 
-### git problems
-1. origin and branch having different commints
-    use `git pull --rebase`

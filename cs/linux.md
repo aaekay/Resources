@@ -15,3 +15,10 @@ sudo make install
 
 1. Minimising windows through taskbar
 I am not able to minimise windows in ubuntu using the taskbar which i could do in windows. So, i have find a solution to this problem. Check out this link: https://itsfoss.com/click-to-minimize-ubuntu/#:~:text=Once%20installed%2C%20launch%20Dconf%20Editor,Custom%20Value%20to%20'minimize'.
+
+
+### remote linux 
+1. ssh authentication
+2. opening a jupyter notebook
+    1. jupyter notebook --no-browser --port=8080
+    2. ssh -L 8080:localhost:<port> <remoteuser>@<remotehost>
