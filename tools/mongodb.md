@@ -11,6 +11,11 @@ aggregation pipeline course
 ## structure of collection
     _id field should be unique - default type is object id
 
+## accounts details
+mitu.garg11@gmail.com
+m001-student
+m001-mongodb-basics
+
 
 ## find command
 show dbs
@@ -95,13 +100,29 @@ push -
     4. db.collection.drop()
 
 ## query operators
+$ sign is used for operators
+
+
 1. Comparison
-    $eq 
-    ne
-    gt
+    $eq == equal to
+    ne  == not ew
+    gt  ==  
     lt
     gte
     lte
 
 eg db.trips.find({ "tripduration": { "$lte" : 70 },
                 "usertype": "Customer" }).pretty()
+
+2. Logic
+    and == default operator 
+    or
+    nor == fail to match both 
+    not
+
+    syntax ==  db.routes.find({ "$and": [ { "$or" :[{ "dst_airport": "KZN" },
+                                    { "src_airport": "KZN" }
+                                  ] },
+                          { "$or" :[ { "airplane": "CR2" },
+                                     { "airplane": "A81" } ] }
+                         ]}).pretty()
