@@ -111,3 +111,28 @@ methods for studying infants
     surprise things: we look more
     rudimentry sense of number 
 3. brain scans
+
+babies vs adults
+1. monkeys and sticker experiment: the learning behaviour where the thoughts seems private
+2. sully and anne test:
+    sully has a basket and anne has marble and watching sully to put marble inside the bucket, sully gone for a while, anne put marble inside the anne's box. SUlly came and looking for her marbles. Kids and adults reply differently where the sully will look for marble
+3. charlie bit my finger, charlie not able to resist the biting, he takes his own finger and puts in the mouth and help his brother to take the finger out
+4. large scale changes 
+5. specific modules
+
+autism: a damagaed module
+    mostly boy
+    lack of social connectedness
+    language impairment
+    threat people as objects
+    limitatinos
+        repetive routine
+        high sound phobia
+why study devlopment?
+adult psychology can be addressed by child psychology
+everything is the way because it got that way
+## effect of language
+
+
+books
+the strucuture of scientific revolutions by thomas kruhn
