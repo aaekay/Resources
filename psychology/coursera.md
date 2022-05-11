@@ -68,3 +68,46 @@ By watching the behavior of the other kids, the child can figure out the rules o
 4. motivation
 
 vecarious reinforcement: A future adaptation of this study (Bandura, Ross, & Ross, 1963) demonstrated that children in the aggression group showed less aggressive behavior if they witnessed the adult model receive punishment for aggressing against Bobo. Bandura referred to this process as vicarious reinforcement, as the children did not experience the reinforcement or punishment directly, yet were still influenced by observing it
+
+# development
+big questions about development
+1. morality
+2. continuity
+3. knowledge: how much we have to learn and how much we born with
+    1. empiricim: we were born empty
+    2. nativism: 
+    3. constructivism
+
+## piaget's theory of cognitive development
+child uses mental structures in head
+1. assimilation: taking information in
+2. accommodation: process by which new schemas are developed or pre existing changes
+
+developmental stage theory
+developmental stage theory
+1. sensorimotor
+2. pre operational ; three mounatin drawing task
+    ego centrism
+    lack of concept of conservation
+3. concrete operational
+    low egocentric
+    inability to reason abstractly
+4. formal operational
+    abstract and scientific reasoning
+
+## scientific evaluation of piaget
+theoretical framework
+interesting and falsifiable claims
+striking findings
+
+limitations
+1. theoretical: lack theoretical explainatin
+2. methodological
+3. factual
+
+methods for studying infants
+1. sucking: headphone and sucking behaviour
+2. looking: babies tend to dont look at the same thing for a longer period of time due to habituation
+    surprise things: we look more
+    rudimentry sense of number 
+3. brain scans

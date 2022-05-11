@@ -12,6 +12,9 @@ behaviour psychology
     skinner verbal behaviour
     chomsky review of skinner's verbal behaviour
 
+developmental psychology: jean piaget studied on genetic epistemology
+
+
 
 
 
