@@ -131,8 +131,42 @@ autism: a damagaed module
 why study devlopment?
 adult psychology can be addressed by child psychology
 everything is the way because it got that way
+
 ## effect of language
+Linguistics
+language: general system of conventional language here
+"The girls thinks the house is big"
+properties:
+    1. expressive power
+    2. different phonetics
+    3. every human society has language
+    4. every normal human has language
+    5. it has creativity and virtually infininte no of sentences
+we can always form a unique sentence 
+
+language can be categorised at various levels
+    phonology: 44 phonemes
+    morphology: smallest meaningful unit , the arbitrariness of sign, no relation of morphology and the object associated with it, avg spearker knows about 80,000 words
+    syntax: structure of a sentence
+
+*creolization* is slave trading bringing diff speaking together, pidgin - makeshift terms common speaking rudimentry language
+pidgin to creole formation
+
+learning language
+    no feedback, punishments
+    preference for melody of own language
+    deaf children also babble with their hands 
+    past puberty learning is more difficult
+    it has a clock on it that means a certain time period to speak fluently
+    
+*deaf child* 
+*disorders of language development*
 
 
-books
-the strucuture of scientific revolutions by thomas kruhn
+
+## books
+1. the strucuture of scientific revolutions by thomas kruhn
+2. the language instinct by steven pinker
+3. the power of babel by john mcwhorter
+4. straight man by richard rosso
+5. nobody's fool
