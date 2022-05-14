@@ -16,7 +16,7 @@ If you are beginner in programming and want to know about good organisation skil
 Helpful links
 1. Creating virtual environment in python [link](/cs/virtual_env.md)
 2. How to set up c in visual studio code(i found it very tough) check this [link](https://www.youtube.com/watch?v=GjxfGoM7Ff8)
-3. linux tips[link](/cs/linux.md)
+3. linux tips [link](/cs/how_linux_works.md)
 
 
 

@@ -162,6 +162,41 @@ learning language
 *deaf child* 
 *disorders of language development*
 
+## other language topics
+reading
+bilingual
+communication in other species
+    1. finite list of calls - some monkey species
+    2. continuos analog signal - bees
+language processing
+language and thought
+    does the language you learn change the way you think?
+        english vs korean
+    is language necessary for abstract thought?
+
+## language reading
+1. priming: Priming occurs when your thinking about one concept (e.g., “ring”) reminds you about other related concepts (e.g., “marriage”, “wedding ceremony”). 
+2. social brain hypothesis, Dunbar showed that those primate genera that have larger brains tend to live in larger groups. Furthermore, using the same equation, he was able to estimate the group size that human brains can support, which turned out to be about 150—approximately the size of modern hunter-gatherer communities. Dunbar’s argument is that language, brain, and human group living have co-evolved—language and human sociality are inseparable.
+3. Sapir-Whorf hypothesis (Sapir, 1921; Whorf, 1956; Box 3). For instance, if you are given a description of a man, Steven, as having greater than average experience of the world (e.g., well-traveled, varied job experience), a strong family orientation, and well-developed social skills, how do you describe Steven? Do you think you can remember Steven’s personality five days later? It will probably be difficult. But if you know Chinese and are reading about Steven in Chinese, as Hoffman, Lau, and Johnson (1986) showed, the chances are that you can remember him well. This is because English does not have a word to describe this kind of personality, whereas Chinese does (shì gù). This way, the language you use can influence your cognition.
+
+
+# perception and attention
+
+segmentation of world by gestalt psychologists
+1. proximity:
+2. similarity:
+3. closure: 
+4. continuation:
+5. common movements
+6. good forms
+
+these perceptions lead to optical illusions
+
+## percepiton of depth
+
+
+
+
 
 
 ## books
