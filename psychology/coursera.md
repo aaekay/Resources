@@ -193,8 +193,11 @@ segmentation of world by gestalt psychologists
 these perceptions lead to optical illusions
 
 ## percepiton of depth
+1. size of things
+2. interposition
 
-
+# Attention
+Stroop effect: color labelled in different words of colors
 
 
 
