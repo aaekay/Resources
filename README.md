@@ -10,6 +10,7 @@ I am dividing this topic in three fields
 6. Life hacks [link](/lifehacks.md)
 7. After mbbs opportunities [link](/cms.md)
 8. medical [link](/medical/readme.md) . Since, I am a doctor I am interested in human physiology too.
+9. Science Newsletter, [link](/newsletter/intro.md)
 
 
 Note: About git usage
