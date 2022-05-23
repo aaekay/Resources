@@ -199,6 +199,18 @@ these perceptions lead to optical illusions
 # Attention
 Stroop effect: color labelled in different words of colors
 
+# feats of memory anyone can do by joshua foer
+idea of having a trained, disciplined and cultivated memory was not an alien phenomena
+new tech has made us to externalise our memories
+
+UCL did a study on memory champions
+1. they had no differenet structrual brain
+2. but lighting up different part of brains while memorising things
+
+he memorised the digits 
+## elaborative coding baker/baker 
+name baker is less remembered than a peson having a profession baker, 
+  
 
 
 
