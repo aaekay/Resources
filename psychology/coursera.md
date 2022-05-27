@@ -199,6 +199,19 @@ these perceptions lead to optical illusions
 # Attention
 Stroop effect: color labelled in different words of colors
 
+# memory
+1. encoding: selective, prolific- encoding the events of life, 
+2. recoding: better recoding improve retention
+    1. associate or correlated the meaning with already known information
+    2. creating vivid images of them like imagination
+    eg. he same thing happened with many other lists the authors used. This phenomenon is referred to as the DRM (for Deese-Roediger-McDermott) effect. One explanation for such results is that, while students listened to items in the list, the words triggered the students to think about window, even though window was never presented. In this way, people seem to encode events that are not actually part of their experience. 
+    Participants hear lists of 15 words, like door, glass, pane, shade, ledge, sill, house, open, curtain, frame, view, breeze, sash, screen, and shutter. Later, participants are given a test in which they are shown a list of words and asked to pick out the ones they’d heard earlier. This second list contains some words from the first list (e.g., door, pane, frame) and some words not from the list (e.g., arm, phone, bottle). In this example, one of the words on the test is window, which—importantly—does not appear in the first list, but which is related to other words in that list. When subjects were tested, they were reasonably accurate with the studied words (door, etc.), recognizing them 72% of the time. However, when window was on the test, they falsely recognized it as having been on the list 84% of the time (Stadler, Roediger, & McDermott, 1999). 
+3. recall/retreival : recall is reconstructive and not reproductive
+    available memory is what is there
+    accessible: part of available which you can access at that time
+    cue overload principle: cue target relationship must be unique or disctinctive at least
+: 
+
 # feats of memory anyone can do by joshua foer
 idea of having a trained, disciplined and cultivated memory was not an alien phenomena
 new tech has made us to externalise our memories
@@ -211,12 +224,49 @@ he memorised the digits
 ## elaborative coding baker/baker 
 name baker is less remembered than a peson having a profession baker, 
   
+## remembring
+1. retreival cues: like distinctiveness- something strange in a typical routine
+2. compatibility principle: in the same context you learn them, both physiological and psychological context it is applicable, psyhological context means emotional, 
+    *flashbulb memories* : his sort of vivid memory of finding out an important piece of new, our objective accuracy with them is far from perfect 
+3. searching strategies: you keep on searching or explore things from different angels and you can see many thngs unfolding
+
+## failures of memories
+why do we forget things?
+1. encoding failures
+1. decay
+2. interference: work with similar materials
+    retroactive interference: Retroactive interference refers to new activities (i.e., the subsequent lunches) during the retention interval (i.e., the time between the lunch 17 days ago and now) that interfere with retrieving the specific, older memory (i.e., the lunch details from 17 days ago)
+        misinformation effect
+    Proactive interference is when past memories interfere with the encoding of new ones. For example, if you have ever studied a second language, often times the grammar and vocabulary of your native language will pop into your head, impairing your fluency in the foreign language
+3. changes of retreival cues
+4. forgetting through brain damages
+5. trying not to remember
+
+types of amnesia
+1. retrograde amnesia
+2. anterograde amnesia: not able to form new memories
+    eg. clive wearing he's world-renowned choir director and musical arranger, and he suffered brain damage following viral encephalitis, which destroyed large areas of his brain, both temporal lobes, his entire hippocampus, and most of his left frontal lobes. He's lost a lot of memories of his past, but he also lost the ability to form new memories
+     Clive's perception of his own condition is that because he has no memory whatsoever up to the currents 10, 20 seconds or maybe half a minute, depending on whether they've been distractive, any proactive interference and the whole, his conscious working span memory is that's current minute. Everything else behind the minute is blank. Everything until now is unknown and it's void. He uses the analogy of feeling as if he has just woken up. He says it's like just waking up for the first time. It's like just becoming conscious. It's as if I had been unconscious for however many years. Because for him, it is momentous, he has to write it down and he has to write it down in any available surface. If the diary is in front of him, he will write it down there. He will record the time, 10:50 a.m. awake first time, and then he looks we at the previous entry, which was 10:48 a.m. awake first time and he says, "No. I was awake then, that wasn't me. That wasn't proper awakeness. This is the first real awakeness. "
+
+     they cant form new explicit memories but can form new implict memories ie skills, they can learn skills and get better with practice
+3. organic vs functional or dissociative amnesia: organic is neurological while dissociative is mental
+     
+## false memories
+1. expectations
+2. leading questions
+3. hypnosis
+4. repressed memories
+5. flashable memories
 
 
+work of elizabeth loftus had done great research
 
-## books
+
+## books and resources
 1. the strucuture of scientific revolutions by thomas kruhn
 2. the language instinct by steven pinker
 3. the power of babel by john mcwhorter
 4. straight man by richard rosso
-5. nobody's fool
+5. nobody's fool https://pubmed.ncbi.nlm.nih.gov/16905156/
+6. https://www.retrievalpractice.org/
+7. powerful teaching pooja k agarwal
