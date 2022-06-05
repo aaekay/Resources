@@ -261,6 +261,81 @@ types of amnesia
 
 work of elizabeth loftus had done great research
 
+# emotion
+Affective neuroscience examines how the brain creates emotional responses.
+
+. This is because the neural structures involved in the enjoyment of rewards are different from the structures involved in the desire for the rewards.
+
+*Panic attacks* appear to be an intense form of separation distress triggered by the attachment system, and panic can be effectively relieved by opiates. Testosterone also reduces separation distress, perhaps by reducing attachment needs. Consistent with this, panic attacks are more common in women than in men
+
+Jaak Panksepp, the father of affective neuroscience
+
+## evolution
+
+*evolutionary psychology* Evolutionary psychology aims the lens of modern evolutionary theory on the workings of the human mind. It focuses primarily on psychological adaptations: mechanisms of the mind that have evolved to solve specific problems of survival or reproduction
+
+*the arguement from design* 
+## why evolution matters?
+natural selection causes organisms to spread the genes which is a misconception
+1. ultimate causation: reason why something has evolved, includes creature history
+2. proximate causation: what the organism want
+hunger , why do you love your kids? 
+
+natural selection entails that everything is adaptive: misconception
+adaptation: color vision
+accident: 
+
+plesure through art and music
+sexual violence
+female orgasm
+
+life is impossible without emotions: 
+    they set goals and priorities
+
+## facial expressions
+smile are social signal?
+
+1. happiness smile or duchene smile
+2. greeting smile
+3. coy smile
+
+*fear*
+
+## attachment
+baby face like leonardo are percieved as kind, helpless naive
+*the cupboard theory* by skinner
+*innate attachment* by bowlby
+
+## priosner's dilemma
+1. reciprocol altruism; by trivers, mutual benefit
+tit for tat, you choose the choice which people did to you
+
+## irrationality and culture
+*the ultimatum game*
+1. a rational person is easily exploited and response to provocations and assault will always be appropriate
+2. a person with a temper has an advantage
+
+*cultures of honor*
+
+# Social
+
+## social animals
+1. social priming: we are affected by outside factors
+
+## self
+1. spotlight effect: t shirt picture effect
+2. lake wobegon effect:
+3. the self serving bias: positive results are a result of our own efforts, negative are due to result of external factors.
+4. cognitive dissonance theory
+    children should not be paid to read
+
+## attribution
+A claim about the cause of human behaviour
+* fundamental atrubution erros* question asker asking hard questions are considered smarter than the people who are answering them
+    actors who play roles, actor who played spock in the star trek
+
+## liking
+
 
 ## books and resources
 1. the strucuture of scientific revolutions by thomas kruhn
@@ -270,3 +345,8 @@ work of elizabeth loftus had done great research
 5. nobody's fool https://pubmed.ncbi.nlm.nih.gov/16905156/
 6. https://www.retrievalpractice.org/
 7. powerful teaching pooja k agarwal
+8. the blind watchmaker by richard dawkins
+9. the selfish gene by dawkins
+10. murder and homicide by dails and wilson
+11. skinner's verbal behaviour
+12. chomsky review of skinner verbal behaviour
