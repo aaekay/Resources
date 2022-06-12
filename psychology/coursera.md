@@ -335,7 +335,93 @@ A claim about the cause of human behaviour
     actors who play roles, actor who played spock in the star trek
 
 ## liking
+1. the more you see it or get familiar with means more liking.
+2. being more proximity makes you more closer
+3. familiarity or similar attracts
+4. physical attractiveness plays more role
+5. matthew effect: poor gets poorer, rich gets richher
+6. THe power of first expression
+7. thin slices: we form the first expression very fastly, we are naturally judgmental.
+8. self fulfilling prophecies: pygmalion effect, if you treat them as cruel and all, they will behave more like it, if you treat them as likable and kind. they will react kimd. Rosental & jocabson test
 
+## the psychology of groups
+stereotypes: prejudice: discirmination
+sterotypes are cognitive biases
+prejudices are emotional biases
+discrimination are behavioural biases
+
+1. hazlitt says without prejudice, he wont be able to walk in the room
+2. stereotypes are often positive and accurate
+
+problems with stereotypes
+1. not always accurate
+2. first impreesion and hard to shake and make us bias
+3. we naturally take group seriously even when the group is arbirary, like we tend to favour groups we like
+4. we actively distinguish between groups leading to discrimination
+
+social psychologists study stereotypes
+this science is all about investigating the ways groups function, the costs and benefits of social status, the influences of culture, and all the other psychological processes involving two or more people.
+
+
+type of stereotypes
+1. public
+2. private: harder to look at, looking at google searches, racial hatred, slower to change
+3. implicit: unconscious association, without even relising it, implicit.harvard.edu
+    creates a fraction of differences
+    blind auditions tu curb hiring musicians
+    using our heads to override our hearts
+    
+Prejudice, on the other hand, refers to how a person feels about an individual based on their group membership.
+
+Blatant biases (also called “explicit biases”) are conscious beliefs, feelings, and behavior that people are perfectly willing to admit, which express hostility toward other groups (outgroups) while unduly favoring one’s own group (in-group). Classic examples of blatant bias include the views of members of hate groups such as the Ku Klux Klan and members of Hitler’s Nazi party.
+
+Studies of ostracism—the deliberate exclusion from groups—indicate this experience is highly stressful and can lead to depression, confused thinking, and even aggression
+
+*social felicitation* Triplett succeeded in sparking interest in a phenomenon now known as social facilitation: the enhancement of an individual’s performance when that person works in the presence of other people. If the task requires nondominant responses, i.e., novel, complicated, or untried behaviors that the organism has never performed before or has performed only infrequently, then the presence of others inhibits performance.
+*evaluation apprehension*, particularly when we feel that our individual performance will be known to others, and those others might judge it negatively
+The result is coordination loss: the three-person group is stronger than a single person, but not three times as strong. Second, people just don’t exert as much effort when working on a collective endeavor, nor do they expend as much cognitive effort trying to solve problems, as they do when working alone. They display social loafing.
+
+Janis labeled this syndrome groupthink: “a mode of thinking that people engage in when they are deeply involved in a cohesive in-group, when the members’ strivings for unanimity override their motivation to realistically appraise alternative courses of action
+
+# Differences
+
+## personality https://nobaproject.com/modules/personality-traits
+cattell's 16 source of traits
+The big five
+1. neruoticism - stability
+2. extron vs intro
+3. open to non open
+4. agreeable antagnoism
+5. conscience - undirectedness
+
+ocean  is mnemonic, Openness, Conscientiousness, Extraversion, Agreeableness, and Neuroticism
+
+ Their approach was guided by the lexical hypothesis, which states that all important personality characteristics should be reflected in the language that we use to describe other people
+
+ The fact that there are different ways of being extraverted or conscientious shows that there is value in considering lower-level units of personality that are more specific than the Big Five traits. These more specific, lower-level units of personality are often called facets
+
+ the HEXACO adds Honesty-Humility as a sixth dimension of personality
+
+Two prominent examples of projective tests are the Rorschach Inkblot Test (Rorschach, 1921) and the Thematic Apperception Test (TAT).
+
+## intelligence
+1. The person best known for formally pioneering the measurement of intellectual ability is Alfred Binet. 
+2. n the early 1900s the Binet-Simon test was adapted by a Stanford professor named Lewis Terman to create what is, perhaps, the most famous intelligence test in the world, the Stanford-Binet (Terman, 1916). The major advantage of this new test was that it was standardized. 
+iq tests are not much valid.
+3. Looking at another modern intelligence test—the Wechsler Adult Intelligence Scale (WAIS)—can provide clues to a definition of intelligence itself. Motivated by several criticisms of the Stanford-Binet test, psychologist David Wechsler sought to create a superior measure of intelligence
+
+The flynn effect: When new waves of people are asked to take older tests they tend to outperform the original sample from years ago on which the test was normed.
+
+#### male vs female
+1. in a review of the research literature Halpern (1997) found that women appear, on average, superior to men on measures of fine motor skill, acquired knowledge, reading comprehension, decoding non-verbal expression, and generally have higher grades in school. Men, by contrast, appear, on average, superior to women on measures of fluid reasoning related to math and science, perceptual tasks that involve moving objects, and tasks that require transformations in working memory such as mental rotations of physical spaces.
+2. One interesting phenomenon that has received research scrutiny is the idea of *stereotype threat*. Stereotype threat is the idea that mental access to a particular stereotype can have real-world impact on a member of the stereotyped group. 
+
+
+
+## genes and evironment
+
+
+## parenting doesnt matter nearwhere as people believe as much
 
 ## books and resources
 1. the strucuture of scientific revolutions by thomas kruhn
@@ -350,3 +436,5 @@ A claim about the cause of human behaviour
 10. murder and homicide by dails and wilson
 11. skinner's verbal behaviour
 12. chomsky review of skinner verbal behaviour
+13. for personality test http://www.personal.psu.edu/j5j/IPIP/ipipneo120.htm
+14. 
