@@ -423,6 +423,14 @@ The flynn effect: When new waves of people are asked to take older tests they te
 
 ## parenting doesnt matter nearwhere as people believe as much
 
+# clinical psychology
+https://nobaproject.com/modules/schizophrenia-spectrum-disorders
+
+# Happiness
+
+
+
+
 ## books and resources
 1. the strucuture of scientific revolutions by thomas kruhn
 2. the language instinct by steven pinker
@@ -437,4 +445,5 @@ The flynn effect: When new waves of people are asked to take older tests they te
 11. skinner's verbal behaviour
 12. chomsky review of skinner verbal behaviour
 13. for personality test http://www.personal.psu.edu/j5j/IPIP/ipipneo120.htm
-14. 
+14. stumbling on happiness by daniel gilbert
+

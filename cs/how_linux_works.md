@@ -112,6 +112,15 @@ PATH=$PATH:dir --> to append the list
     *Windows*
     in git bash, while using windows, you need to add export PATH in the bashprofile
 
+1. To append path permanently in the linux
+    1. nano ~/.bashrc
+    this file will open up and at the end of it add the below line
+    export PATH="path of the directory:$PATH"
+    2. now save changes by exiting
+    3. source ~/.bashrc
+    4. echo $PATH 
+    now you can see your path being added up
+
 ### SHell Input and Output
 1. command 
 command > file
