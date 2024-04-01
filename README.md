@@ -37,3 +37,6 @@ Setting up ssh keys for easy login
     3. now confirm with github password
 4. now enter code: `ssh -T git@github.com`
     1. if the following message is shown then you are good to go: Hi username! You've successfully authenticated, but GitHub does not provide shell access.
+    2. if it is failed, then copy a public key to github keys
+5. To see which key your github authentication is using;
+    1. go to ~/.ssh/config file and see which host is using which key
