@@ -11,4 +11,7 @@ tutorial copied from https://www.techtarget.com/searchsecurity/tutorial/Use-ssh-
 
 1. `ssh-keygen -t rsa` keep on pressing enter enter enter
 3. `ssh-copy-id username@host`
-4. 
+
+## For Windows
+ssh-copy-id wont work in powershell use the below command
+1. `type $env:USERPROFILE\.ssh\id_rsa.pub | ssh user@hostname "cat >> .ssh/authorized_keys"`
