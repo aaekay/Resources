@@ -10,5 +10,5 @@ tutorial copied from https://www.techtarget.com/searchsecurity/tutorial/Use-ssh-
 ## Now do the following
 
 1. `ssh-keygen -t rsa` keep on pressing enter enter enter
-3. `ssh-copy-id data@negroni.cse.iitd.ac.in`
+3. `ssh-copy-id username@host`
 4. 
